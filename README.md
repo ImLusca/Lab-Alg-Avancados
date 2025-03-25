@@ -6,4 +6,4 @@ EX 03 - Stonks        -> Analisar o melhor momento para comprar o máximo de aç
 EX 04 - MaxSweeties   -> Comprar o máximo e mínimo de doces possíves dentro da lógica proposta. </br>
 EX 05 - RobotsWork    -> Alocar o número mínimo de robôs para resolver todas as tarefas dentro do prazo. </br>
 
-EX 07 - TwoGames      -> resolvendo problema do TwoSum com abordagem da busca dinâmica. </br>
+EX 07 - TwoGames      -> resolvendo problema do TwoSum com abordagem da busca binária. </br>
